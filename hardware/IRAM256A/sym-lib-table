@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name "stmbl")(type "KiCad")(uri "$(KIPRJMOD)/../lib/stmbl.lib")(options "")(descr ""))
-  (lib (name "stmbl_4.0-rescue")(type "Legacy")(uri "${KIPRJMOD}/stmbl_4.0-rescue.lib")(options "")(descr ""))
+  (lib (name "stmbl_1")(type "Legacy")(uri "$(KIPRJMOD)/../lib/stmbl.lib")(options "")(descr "")(disabled))
+  (lib (name "stmbl_4.0-rescue")(type "KiCad")(uri "${KIPRJMOD}/stmbl_4.0-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "stmbl")(type "KiCad")(uri "C:/GIT/stmbl/hardware/lib/stmbl.kicad_sym")(options "")(descr ""))
 )
