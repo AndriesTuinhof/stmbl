@@ -34,12 +34,13 @@ stmblx
 *.b#?
 *.l#?
 *.lck
+*.zip
 
 # kicad bak files
-hw/kicad/*.bak
-hw/kicad/*/*.bak
-hw/kicad/*/*/*.bak
-hw/kicad/*/*-bak
+hardware/*.bak
+hardware/*/*.bak
+hardware/*/*/*.bak
+hardware/*/*-bak
 
 # Eagle project file
 # It contains a serial number and references to the file structure
