@@ -2064,7 +2064,7 @@
       (reference "U3") (unit 1) (value "SI8621") (footprint "stmbl:SOIC-8-N")
     )
     (path "/00000000-0000-0000-0000-00005659094d/00000000-0000-0000-0000-0000565909d4/00000000-0000-0000-0000-0000578281c8"
-      (reference "U4") (unit 1) (value "ACT4088") (footprint "stmbl:SOT-23-6")
+      (reference "U4") (unit 1) (value "AOZ1280") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-00005659094d/00000000-0000-0000-0000-0000565909d4/00000000-0000-0000-0000-000057f9295b"
       (reference "U5") (unit 1) (value "LNK304D") (footprint "stmbl:SOIC-7")
@@ -2097,7 +2097,7 @@
       (reference "U12") (unit 1) (value "IRAM256a") (footprint "stmbl:IRAM256")
     )
     (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-000056591916/00000000-0000-0000-0000-000057ad3dd4"
-      (reference "U13") (unit 1) (value "ACT4088") (footprint "stmbl:SOT-23-6")
+      (reference "U13") (unit 1) (value "AOZ1280") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-00005659191c/00000000-0000-0000-0000-0000565dfe81"
       (reference "U14") (unit 1) (value "SN65176B") (footprint "SO-8")
@@ -2138,8 +2138,11 @@
     (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-000056591913/00000000-0000-0000-0000-0000565fd974"
       (reference "U26") (unit 1) (value "STM32F405VG") (footprint "TQFP100")
     )
+    (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-000056591916/6289a00b-1d8b-4bea-a742-6ca96dfebe8a"
+      (reference "U27") (unit 1) (value "AOZ1280") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+    )
     (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-000056591916/00000000-0000-0000-0000-000057d63c38"
-      (reference "U28") (unit 1) (value "ACT4088") (footprint "stmbl:SOT-23-6")
+      (reference "U28") (unit 1) (value "AOZ1280") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-00005659094d/00000000-0000-0000-0000-0000565909d0/00000000-0000-0000-0000-000057debe00"
       (reference "U29") (unit 1) (value "USBLC6-4SC6") (footprint "stmbl:SOT-23-6")
@@ -2158,9 +2161,6 @@
     )
     (path "/00000000-0000-0000-0000-00005b2de72a"
       (reference "U34") (unit 1) (value "fan") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000056590966/00000000-0000-0000-0000-000056591916/6289a00b-1d8b-4bea-a742-6ca96dfebe8a"
-      (reference "U?") (unit 1) (value "AOZ1280") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-00005659094d/00000000-0000-0000-0000-0000565909d0/00000000-0000-0000-0000-000056631593"
       (reference "Y1") (unit 1) (value "8M") (footprint "stmbl:Crystal_SMD_0503_4Pads")
